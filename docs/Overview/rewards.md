@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # Fren Pet Rewards System
 
+All $FP tokens used within the game are 100% burned.
+
 There is a 5% tax every time someones buys or sells $FP tokens on baseSwap, once the smart contracts accrues 5000 $FP tokens from the taxes, they get automatically swapped into ETH and distributed as follows:
 
 1. 2% goes to the players of the game as rewards.
