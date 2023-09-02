@@ -12,7 +12,7 @@ There is a 5% tax every time someones buys or sells $FP tokens on baseSwap, once
 1. 2% goes to the developers of Fren Pet
 1. 1% gets added back as liquidity provision to support the FP economy
 
-The players rewards is distributed as a percentage according to their in-game score share from the total scores of all pets in the game.
+The players rewards are distributed according to your share of in-game score share in relation to the total scores of all pets in the game.
 
 **Note:** when you claim rewards on the app your score resets to 0 and your pet level starts from scratch, strategize accordingly.
 
