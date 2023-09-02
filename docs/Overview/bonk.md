@@ -3,7 +3,7 @@ sidebar_position: 3
 # draft: false
 ---
 
-# Ledearboard 
+# Leaderboard 
 
 When you feed your pet you earn points, the higher your points the higher you raise in the leaderboard and the more ETH rewards you get (see [rewards page](https://frenpet.xyz/rewards))
 
