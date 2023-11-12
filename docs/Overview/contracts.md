@@ -4,11 +4,11 @@ sidebar_position: 6
 
 # Contracts V2
 
-V2 is built using EIP2535 Diamond Standard
+V2 was built using the EIP2535 Diamond Standard
 
 The diamond contract is at: [0x0e22b5f3e11944578b37ed04f5312dfc246f443c](0x0e22b5f3e11944578b37ed04f5312dfc246f443c)
 
-To interact with the different facets we recommend this link as EIP2535 is not currently supported by Etherscan
+To interact with the different facets we recommend this link as EIP2535 is not currently supported good by Etherscan
 
 [https://louper.dev/diamond/0x0e22b5f3e11944578b37ed04f5312dfc246f443c?network=base](https://louper.dev/diamond/0x0e22b5f3e11944578b37ed04f5312dfc246f443c?network=base)
 
