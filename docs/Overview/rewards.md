@@ -2,11 +2,9 @@
 sidebar_position: 4
 ---
 
-# Fren Pet Rewards System
+# FrenPet Rewards System
 
-All $FP tokens used within the game are 100% burned.
-
-There is a 5% tax every time someones buys or sells $FP tokens on baseSwap, once the smart contracts accrues 5000 $FP tokens from the taxes, they get automatically swapped into ETH and distributed as follows:
+There is a 5% tax every time someones buys or sells $FP tokens on BaseSwap, once the smart contracts accrues 5000 $FP tokens from the taxes, they get automatically swapped into ETH and distributed as follows:
 
 1. 2% goes to the players of the game as rewards.
 1. 2% goes to the developers of Fren Pet
@@ -15,6 +13,13 @@ There is a 5% tax every time someones buys or sells $FP tokens on baseSwap, once
 The players rewards are distributed according to your share of in-game score share in relation to the total scores of all pets in the game.
 
 **Note:** when you claim rewards on the app your score resets to 0 and your pet level starts from scratch, strategize accordingly.
+
+## In-game usage and referrals
+
+All $FP tokens used within the game are 90% burned and 10% sent to referals.
+
+You can check for your ref codes under your account and invite friends, you will get 10% of all their $FP spent within the app.
+
 
 
 
