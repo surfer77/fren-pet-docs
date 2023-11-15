@@ -6,7 +6,7 @@ sidebar_position: 6
 
 V2 was built using the EIP2535 Diamond Standard
 
-The diamond contract is at: [0x0e22b5f3e11944578b37ed04f5312dfc246f443c](0x0e22b5f3e11944578b37ed04f5312dfc246f443c)
+The diamond contract is at: [0x0e22b5f3e11944578b37ed04f5312dfc246f443c](https://basescan.org/address/0x0e22b5f3e11944578b37ed04f5312dfc246f443c#code)
 
 To interact with the different facets we recommend this link as EIP2535 is not currently supported good by Etherscan
 
