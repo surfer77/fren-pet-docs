@@ -13,4 +13,4 @@ Every 15 minutes you can bonk a pet that is above your level and that hasn't bee
 
 You have a 40% chance of winning the bonk, while your opponent with a higher level has a 60% chance of winning.
 
-The bonk winner gets 0.5% of the loser score.
+The bonk winner gets 0.5% of the loser score and score directly effect ETH rewards

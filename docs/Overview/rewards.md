@@ -12,6 +12,7 @@ There is a 5% tax every time someones buys or sells $FP tokens on BaseSwap, once
 
 The players rewards are distributed according to your share of in-game score share in relation to the total scores of all pets in the game.
 
+
 **Note:** when you claim rewards on the app your score resets to 0 and your pet level starts from scratch, strategize accordingly.
 
 ## In-game usage and referrals
