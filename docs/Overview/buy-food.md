@@ -12,3 +12,5 @@ Time Of Death (TOD) is when your pet will die if it's not fed, if your pet dies 
 You buy food by paying in $FP Tokens.
 
 Give your pet foods according to your stragegy and feeling, you can be agressive to raise in the leaderboard or just calm giving your pet an apple every 3 days.
+
+**Note that your TOD (Time Of Death) never adds up, each new food you give your pet resets the TOD to that food's specific TOD properties**
