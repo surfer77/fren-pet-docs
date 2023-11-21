@@ -9,7 +9,7 @@ The FrenPet Arcade includes many games and adventures you can take your pet on
 
 ## Spin The Wheel
 
-Every pet can spin the wheel once a day for free (gas), you can win a broad range of prizes like additional points, tod, sield or insurance
+Every pet can spin the wheel once a day for free (gas), you can win a broad range of prizes like additional points, TOD, shield or insurance
 
 
 ## Dice
