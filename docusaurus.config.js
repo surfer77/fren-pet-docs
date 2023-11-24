@@ -107,10 +107,10 @@ const config = {
                 label: "Telegram",
                 href: "https://t.me/frenpet",
               },
-              // {
-              //   label: "Discord",
-              //   href: "https://discord.gg/kfByfux",
-              // },
+              {
+                label: "Discord",
+                href: "https://discord.gg/u2R3VauhBg",
+              },
               {
                 label: "Twitter",
                 href: "https://twitter.com/frenpetonbase",
