@@ -9,4 +9,14 @@ sidebar_position: 2
 
 The team didn't pre-receive any tokens, all tokens they own were acquired.
 
-$FP used in the game is 90% burned and 10% automatically sent to referrals.
+$FP used in the game is 90% burned and 10% automatically sent to referrals. Over 25% of all tokens were already burned playing the game.
+
+
+
+:::note
+
+Disclaimer: Fren Pet was releassed in a fair way via Base Swap outside of this website, The purchase of FP tokens does not constitute an investment contract or any form of investment advice. Fren Pet does no guarantee or make any promises about the future value or performance of the token, and the value of the token may fluctuate significantly.
+
+Also note that it might be illegal for you to own FrenPet depending on your jurisdiction, check with your local laws.
+
+:::
