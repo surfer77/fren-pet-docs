@@ -16,8 +16,8 @@ A total of 10_000_000 pGOLD will be distributed in the first 3 months, the distr
 
 1. The pGOLD balance is per pet and it gets burned when your pet dies.
 1. There is not a set date of when the community treasury will be distributed, we expect FrenPet to grow first.
-1.Owning too many pets becomes more complex as the game grows so do it at your own risk.
-1.The distribution algorithm can change without previous warning.
+1. Owning too many pets becomes more complex as the game grows so do it at your own risk.
+1. The distribution algorithm can change without previous warning.
 
 We reserve the right to reward with pGOLD pets of community members that help, build or spread positivity around FrenPet. We’ll share publicly if we decide to reward someone.
 

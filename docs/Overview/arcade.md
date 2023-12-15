@@ -14,7 +14,7 @@ Every pet can spin the wheel once a day for free (gas), you can win a broad rang
 
 ## Dice
 
-You can join the Dice game and play against other players to win up to 500 $FP per game!
+You can join the Dice game and play against other players to win up to 50 $FP per game!
 
 To join the dice costs 10 $FP and the order in which you join (from 1 to 6) decides the dice number you picked for when the dice is rolled.
 
