@@ -1,9 +1,9 @@
 ---
-sidebar_position: 2
+sidebar_position: 11
 # draft: false
 ---
 
-# FP Distribution 
+# $FP Distribution 
 
 100% of the FP tokens were distributed via a baseSwap pool with an initial buy limit of ~$0.80 cents per player, any player could get a maximum of 5000 $FP tokens to mint a pet and play the game
 

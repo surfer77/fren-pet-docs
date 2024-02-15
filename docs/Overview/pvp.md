@@ -7,16 +7,24 @@ sidebar_position: 5
 
 # Player Vs Player (PVP)
 
-You can battle, hibernate and kill oher pets to earn ETH or stars.
+You can battle, hibernate and kill oher pets to earn, Poiints, ETH or stars.
 
 
 ## Battles
 
-Every 15 minutes you can bonk a pet that is above your level and that hasn't been bonked for 1 hour. <!--If you don't see anyone to bonk it's because they have all been bonked within the last hour. -->
-
-You have a 40% chance of winning the bonk, while your opponent with a higher level has a 60% chance of winning.
-
+Every 30 minutes you can attack a pet that is above your level and that hasn't been bonked for 1 hour. <!--If you don't see anyone to bonk it's because they have all been bonked within the last hour. -->
 The bonk winner gets 0.5% of the loser score and score directly effects ETH rewards
+
+
+### Defense and Attack Score
+
+Every pet starts with 10 AP (Attack Points) and 10 DP (Defense Points).
+
+Every 1000 points you earn by upgrading your pet you get to spin a gatcha machine that will reward you with APs or DPs.
+
+Here is the formula to decide your win probability: `(Attacker’s AP) / (Attacker’s AP + Defender’s DP)`
+
+
 
 ## Hibernation
 

@@ -4,9 +4,10 @@ slug: /
 # draft: fals
 ---
 
-# Welcome to FrenPet
+# What is FrenPet
 
-FrenPet is an indie game on the base blockchain developed by [@caduveloso](https://twitter.com/cadu_veloso) and [@surfcoderepeat](https://twitter.com/surfcoderepeat) that aims to explore true ownership on the blockchain, we will keep adding a feature a week as long as players enjoy and are active.
+FrenPet is an indie game on the Base blockchain developed by [@caduveloso](https://twitter.com/cadu_veloso) and [@surfcoderepeat](https://twitter.com/surfcoderepeat).
+
 
 ## Download the app
 

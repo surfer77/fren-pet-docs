@@ -3,9 +3,11 @@ sidebar_position: 3
 # draft: false
 ---
 
-# Grow Your Pet
+# Raise Your Pet
 
-Minting a Fren Pet is Free, when you join the app you'll get a randomly generated pet and can start playing right away.
+Minting your FrenPet is Free, when you join the app you'll get a randomly generated pet and can start playing right away.
+
+## Feed your pet
 
 Take care of your pet and keep it alive, on your pet page you will see a mushroom that will give your pet a "TOD" (Time Of Death) of 3 days. 
 
