@@ -1,26 +1,34 @@
 ---
 
-sidebar_position: 8
+sidebar_position: 9
 ---
 
-# Earn pGold
+# pGold
 
-On top of distributing ETH fees to players, every $FP used to mint pets goes to a [players treasure](https://basescan.org/token/0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105?a=0x038d3417508aecf2889f79ebff61b32564282534) to be distributed to active players at a later date.
+## Earn pGold
 
-We created an on-chain in-game coin called $pGOLD to keep track of the shares of each player from the players treasure, based on pet score.
+We created an on-chain in-game coin called $pGOLD to keep track of the shares of each player from the players treasure, based on pet score/points.
 
-A total of 10_000_000 $pGOLD will ever exist.
+A total of 10,000,000 $pGOLD will ever exist.
 
-You can earn $pGOLD by advancing in the Fren Pet World. You'll also need $pGOLD for things and activity within the game.
+Players can earn $pGOLD in two ways:
 
-You can freely exchange $pGOLD to $FP, or get more $pGOLD with $FP via the app. 
+-   Swapping $FP for it in the swap tab
+    
 
+-   Defeating monsters in battle
+    
 
+## pGOLD Liquidity Providers
+
+Due to the mechanics of pGOLD you can also liquidity provide (LP) your $FP that earns 2% of all trading fees and any pGOLD other players decide to sell into the pool.
+
+Due the entirety of pGOLD supply being backed by an ever growing FP treasury you are always expected to have more FP value when you stop LPing.
+
+There is a 2% swap fee when players buy or sell pGOLD with FP that goes to LPs
 
 :::note
 
-Disclaimer: Fren Pet was released in a fair way via Base Swap outside of this website. The purchase of $FP tokens does not constitute an investment contract or any form of investment advice. Fren Pet does no guarantee or make any promises about the future value or performance of the token, and the value of the token may fluctuate significantly.
-
-Also note that it might be illegal for you to own $FP depending on your jurisdiction, check with your local laws.
+Fren Pet was released in a fair way via Base Swap outside of this website, The purchase of FP tokens does not constitute an investment contract or any form of investment advice. Fren Pet does no guarantee or make any promises about the future value or performance of the token, and the value of the token may fluctuate significantly. It might be illegal for you to own FrenPet depending on your jurisdiction, check with your local laws.
 
 :::
