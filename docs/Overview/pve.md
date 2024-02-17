@@ -7,17 +7,18 @@ sidebar_position: 6
 
 You can win prizes in different ways by exploring the world, some of them include:
 
-1. Daily Spin The Wheel
-1. Dice game
-1. Gatcha machine 
+-   Daily Spin The Wheel
+    
 
+-   Dice game
+    
 
-The FrenPet Arcade includes many games and adventures you can take your pet on
+-   Gatcha machine
+    
 
 ## Spin The Wheel
 
-Every pet can Spin The Wheel once a day for _free_ (gas) and win points that represent the 2% players share of $FP trading activity.
-
+Every pet can Spin The Wheel once a day for free (gas) and win points that represent the 2% players share of $FP trading activity.
 
 ## Dice
 
@@ -27,22 +28,17 @@ To join the dice costs 10 $FP and the order in which you join (from 1 to 6) deci
 
 The dice can be rolled only after 6 players join the game.
 
-
 ## Gatcha Machine
 
-Every time your pet levels up you get a _free_ Gatcha spin.
+Every time your pet levels up you get a free Gatcha spin.
 
-Gatcha spins are where you can win or lose **attack** or **defence** points which are crucial for pets' further advancement in the [Fren Pet World](docs/Overview/world.md) 
+Gatcha spins are where you can win or lose attack or defence points which are crucial for pets' further advancement in the Fren Pet World.
 
-
-**Spin The Wheel, Dice, and Gatcha Machine work with a commit and reveal scheme behind the scenes to ensure fair outcomes in a long enough timeframe** 
-
+**Spin The Wheel, Dice, and Gatcha Machine work with a commit and reveal scheme behind the scenes to ensure fair outcomes on a long enough timeframe.**
 
 :::note
 
-Disclaimer: Fren Pet was released in a fair way via Base Swap outside of this website. The purchase of $FP tokens does not constitute an investment contract or any form of investment advice. Fren Pet does not guarantee or make any promises about the future value or performance of the token, and the value of the token may fluctuate significantly.
-
-Also note that it might be illegal for you to own $FP depending on your jurisdiction, check with your local laws.
+Fren Pet was released in a fair way via Base Swap outside of this website, The purchase of FP tokens does not constitute an investment contract or any form of investment advice. Fren Pet does no guarantee or make any promises about the future value or performance of the token, and the value of the token may fluctuate significantly. It might be illegal for you to own FrenPet depending on your jurisdiction, check with your local laws.
 
 :::
 
