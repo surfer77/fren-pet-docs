@@ -7,7 +7,7 @@ sidebar_position: 2
 
 ## Take care of your pet and keep it alive.
 
-On the “My pet” tab you will see your pet, a “Time Of Death” (TOD) countdown that starts at 3 days, a mushroom, and a stake button (see more on staking here).
+On the “My pet” tab you will see your pet, a “Time Of Death” (TOD) countdown that starts at 3 days, a mushroom, and a stake button (see more on staking [here](/#stake).
 
 Time Of Death is when your pet will die if it's not fed. If your pet dies your NFT is sent to hibernation.
 
