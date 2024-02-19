@@ -9,7 +9,7 @@ sidebar_position: 9
 
 We created an on-chain in-game coin called $pGOLD to keep track of the shares of each player from the players treasure, based on pet score/points.
 
-A total of 10,000,000 $pGOLD will ever exist.
+A total of 1,000,000,000 $pGOLD will ever exist.
 
 Players can earn $pGOLD in two ways:
 
