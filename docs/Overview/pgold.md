@@ -7,7 +7,7 @@ sidebar_position: 9
 
 
 
-## Earn pGold
+## 赚取 pGold
 
 我们创建了一个名为$pGOLD的链上游戏内代币，以跟踪每位玩家在宝藏中的份额，这取决于宠物的得分/积分。
 
@@ -36,6 +36,6 @@ $pGOLD的总供应量将永远为10,000,000。
 
 :::note
 
-Fren Pet was released in a fair way via Base Swap outside of this website, The purchase of FP tokens does not constitute an investment contract or any form of investment advice. Fren Pet does no guarantee or make any promises about the future value or performance of the token, and the value of the token may fluctuate significantly. It might be illegal for you to own FrenPet depending on your jurisdiction, check with your local laws.
+Fren Pet是通过Base Swap在该网站之外以公平方式发布的。购买FP代币并不构成投资合同或任何形式的投资建议。Fren Pet不保证或作出任何关于代币未来价值或性能的承诺，并且代币价值可能会显著波动。根据您所在的司法管辖区，拥有Fren Pet可能是非法的，请查阅当地法律。
 
 :::
