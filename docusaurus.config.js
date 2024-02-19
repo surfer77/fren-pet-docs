@@ -80,7 +80,11 @@ const config = {
             position: "left",
             label: "Docs",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          {
+            href: "https://mirror.xyz/frenpet.eth",
+            label: "Blog",
+            position: "left",
+          },
           {
             href: "https://github.com/surfer77",
             label: "GitHub",
