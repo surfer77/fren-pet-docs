@@ -3,15 +3,16 @@ sidebar_position: 7
 draft: false
 ---
 
-# Marketplace
+# 市场
 
-The in-game marketplace has a range of items. From cosmetic to very useful items such as shield to save you from attacks or insurance to auto revive your pet if the TOD runs out and it dies.
+游戏内的市场提供各种物品，从化妆品到非常有用的物品，比如盾牌可以在被攻击时保护你，或者保险可以在TOD耗尽且宠物死亡时自动复活你的宠物。
 
-All items in the shop are traded with $FP against a linear bonding curve, the delta for each item can be seen in the shop.
+商店中的所有物品都以$FP进行交易，根据一个线性倾斜曲线进行定价，每个物品的价格变动可以在商店中看到。
 
-There is a 10% fee when buying items that goes to referrals (See below).
+购买物品时有10%的费用，这些费用会转给推荐人（见下文）。
 
-**Note: The referral system has been removed but if you were an early player that has referrals you will still earn these fees.**
+注意：推荐系统已被移除，但如果你是早期玩家并有推荐，你仍然会获得这些费用。
+
 
 :::note
 

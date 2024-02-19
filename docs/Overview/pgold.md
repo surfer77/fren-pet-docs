@@ -3,29 +3,36 @@
 sidebar_position: 9
 ---
 
-# pGold
+# pGold 赚取pGold
+
+
 
 ## Earn pGold
 
-We created an on-chain in-game coin called $pGOLD to keep track of the shares of each player from the players treasure, based on pet score/points.
+我们创建了一个名为$pGOLD的链上游戏内代币，以跟踪每位玩家在宝藏中的份额，这取决于宠物的得分/积分。
 
-A total of 10,000,000 $pGOLD will ever exist.
+$pGOLD的总供应量将永远为10,000,000。
 
-Players can earn $pGOLD in two ways:
+玩家可以通过两种方式赚取$pGOLD：
 
--   Swapping $FP for it in the swap tab
+1. 在交换选项卡中用$FP进行兑换。
+
+1. 在战斗中打败怪物。
+
+
     
 
--   Defeating monsters in battle
-    
+## pGOLD流动性提供者
 
-## pGOLD Liquidity Providers
 
-Due to the mechanics of pGOLD you can also liquidity provide (LP) your $FP that earns 2% of all trading fees and any pGOLD other players decide to sell into the pool.
+由于pGOLD的机制，您还可以提供$FP的流动性（LP），该流动性可以赚取所有交易费的2%，以及其他玩家决定卖出的任何pGOLD。
 
-Due the entirety of pGOLD supply being backed by an ever growing FP treasury you are always expected to have more FP value when you stop LPing.
+由于pGOLD供应的整体支持来自不断增长的FP金库，当您停止提供流动性时，您总是期望拥有更多的FP价值。
 
-There is a 2% swap fee when players buy or sell pGOLD with FP that goes to LPs
+当玩家使用FP购买或出售pGOLD时，会有2%的交换费用，该费用将支付给流动性提供者。
+
+合约
+
 
 :::note
 

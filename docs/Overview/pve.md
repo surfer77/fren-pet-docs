@@ -2,36 +2,40 @@
 sidebar_position: 4
 ---
 
-# Player Vs Environment (PVE)
+# 玩家对环境（PVE）
 
-You can win prizes in different ways by exploring the world, some of them include:
+通过探索这个世界，你可以以不同的方式赢得奖品，其中一些包括：
 
--   Daily Spin The Wheel
-    
 
--   Dice game
-    
+1. 每日旋转幸运轮 
 
--   Gatcha machine
+1. 骰子游戏
+
+1. 扭蛋机 
+
+1. 旋转幸运轮 
     
 
 ## Spin The Wheel
 
-Every pet can Spin The Wheel once a day for free (gas) and win points that represent the 2% players share of $FP trading activity.
+每个宠物每天可以免费（无需Gas）旋转幸运轮一次，赢得代表2%玩家在$FP交易活动中份额的积分。
 
-## Dice
 
-You can join the Dice game and play against other players to win up to 50 $FP per game!
+## 骰子游戏
 
-To join the dice costs 10 $FP and the order in which you join (from 1 to 6) decides the dice number you picked for when the dice is rolled.
+你可以参加骰子游戏，与其他玩家对战，每场最多赢得50$FP！
 
-The dice can be rolled only after 6 players join the game.
+加入骰子游戏的费用为10$FP，加入的顺序（从1到6）决定了在掷骰子时你选择的骰子数字。
 
-## Gatcha Machine
+只有当有6名玩家加入游戏时，骰子才能被掷动。
 
-Every time your pet levels up you get a free Gatcha spin.
 
-Gatcha spins are where you can win or lose attack or defence points which are crucial for pets' further advancement in the Fren Pet World.
+## 扭蛋机
+
+
+每当你的宠物升级时，你都会获得一次免费的扭蛋机旋转。扭蛋机旋转是你可以赢得或失去攻击或防御点数的地方，这对宠物在Fren Pet World中进一步发展至关重要。旋转幸运轮、骰子游戏和扭蛋机在幕后采用了一种提交和揭示的方案，以确保在足够长的时间内获得公平的结果。
+
+
 
 **Spin The Wheel, Dice, and Gatcha Machine work with a commit and reveal scheme behind the scenes to ensure fair outcomes on a long enough timeframe.**
 

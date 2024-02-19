@@ -5,29 +5,32 @@ sidebar_position: 5
 
 
 
-# Player Vs Player (PVP)
+# 玩家对玩家（PVP）
 
-## Battles
+每30分钟，你可以与一个高于你等级且在过去1小时内未被击晕的宠物进行战斗。
 
-Every 30 minutes you can battle a pet that is above your level and that hasn't been bonked for 1 hour.
+战斗结果的胜率取决于你的攻击点和防御点与你战斗的其他玩家，所以明智地选择你的战斗。
 
-The odds on the outcome of the battle depend on your attack and defense points vs the other player you are battling so pick your battles wisely.
+赢家将获得失败者点数的0.5%，这直接影响ETH奖励。
 
-The winner gets 0.5% of the loser's points, which directly affects ETH rewards.
 
-## Defense and Attack Score
+## 防御和攻击分数
 
-Every pet starts with 10 AP (Attack Points) and 10 DP (Defense Points).
 
-Every time you level up 1 level by upgrading your pet you get to spin a gatcha machine that will reward you with APs or DPs.
+每个宠物初始都有10个攻击点（AP）和10个防御点（DP）。
 
-Here is the formula to decide your win probability: `(Attacker’s AP) / (Attacker’s AP + Defender’s DP)`
+每当你通过升级宠物获得1000点时，你将有机会旋转一个扭蛋机，该机器将奖励你AP或DP。
 
-## Kills
+以下是决定你赢得比赛概率的公式：（攻击者的AP）/（攻击者的AP + 防御者的DP）
 
-When a pet's TOD (Time Of Death) reaches 0 you can kill it, burn the NFT onchain and earn a star, and stars are very hard to come by.
 
-You can check how many stars you've gained on the my pet tab.
+## 击败
+
+
+当宠物的TOD（Time Of Death）达到0时，你可以击败它，在链上销毁NFT并获得一颗星星，而星星是很难获得的。
+
+你可以在“我的宠物”选项卡中查看你获得了多少颗星星
+
 
 :::note
 

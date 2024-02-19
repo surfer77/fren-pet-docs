@@ -3,43 +3,45 @@ sidebar_position: 2
 # draft: false
 ---
 
-# Raising Your Pet
+# 饲养你的宠物
 
-## Take care of your pet and keep it alive.
+## 照顾宠物并让它活下去
 
-On the “My pet” tab you will see your pet, a “Time Of Death” (TOD) countdown that starts at 3 days, a mushroom, and a stake button (see more on staking [here](/#stake)).
+在“My pet”选项卡上，你会看到你的宠物、一个从3天开始的“Time Of Death”（TOD）倒计时、一个蘑菇图标，以及一个“stake”按钮（有关stake的更多信息请参见此处）。
 
-Time Of Death is when your pet will die if it's not fed. If your pet dies your NFT is sent to hibernation.
+死亡时间是指你的宠物如果不喂食就会死亡的时间。如果你的宠物死了，你的 NFT 就会进入冬眠状态。
 
-There are 2 ways to extend your pets TOD:
 
--   Feed it a mushroom by simply clicking on the icon and paying 1 $FP. You will receive 5 points and reset your TOD timer to 3 days. All $FP used to buy mushrooms is burned.
-    
+有 2 种方法可以延长宠物的 TOD：
 
--   Staking your $FP will also reset your TOD to 3 days.
-    
+1. 只需点击图标并支付 1 个 FP 即可喂它蘑菇。您将获得 5 分，并将 TOD 计时器休息 3 天。用于购买蘑菇的所有 $FP 都被烧毁。
 
-**Time Of Death never adds up, each new shroom you give your pet resets the TOD to 3 days.**
+1. 质押您的 $FP 也会将您的 TOD 重置为 3 天。
 
-## Name your pet
 
-Players can also change the name of their pet by clicking on it and inputing the name they wish to give. The new name will be shown on the leaderboard and when battling.
 
-## Hibernation
+**宠物时间永远不会累积，每次给宠物喂食蘑菇都会将TOD重置为3天。**
 
-If you forget to feed your pet, other players can send it to hibernation and get rewarded with a star. Hibernation is a period of 7 days where you do not lose your pet or items, but have limited ability to interact with the game until you feed your pet again to return to the game.
+## 给宠物起个名字
+
+玩家还可以通过点击宠物并输入他们想要的名字来更改宠物的名字。新名字将显示在排行榜上和战斗时。
+
+
+## 休眠
+
+如果你忘记喂食你的宠物，其他玩家可以将其送入休眠状态并获得奖励星星。休眠是一个为期7天的期间，在这段时间里，你不会失去你的宠物或物品，但在再次喂食宠物之前，与游戏的互动能力将受到限制。
+
+如果在休眠期间没有喂食宠物，它将被销毁，你不能再复活它或再次使用它。
+
 
 **If your pet is not fed during the hibernation period it will be burned and you can't revive it or use it again.**
 
-How it works:
+工作原理:
 
--   To reactivate a hibernating pet, the first shroom costs an additional 10 FP.
-    
+1. 要重新激活休眠中的宠物，第一个蘑菇的成本额外增加10 FP。
+1. 在休眠期间，如果被其他玩家攻击，宠物可能会失去1%的点数（与主动宠物的0.5%相比），胜负基于攻击和防御点数。
+1. 玩家有7天的时间来喂食他们的宠物并让它重返生活。之后，宠物可以被其他玩家杀死，失去分数。宠物从市场上购买的任何物品都会自动退还给商店。所有的$FP和任何累积的ETH奖励都会转移到玩家的钱包中。
 
--   While hibernating, if attacked by other players, the pet can lose 1% of its points (compared to 0.5% for active pets) odds are based off attack and defense points.
-    
-
--   Players have a 7-day window to feed their pet and bring it back to life. After that, pet can be killed by other players losing its score. Anything that pet had from the marketplace is automatically sold back into the shop. All $FP and any accrued ETH rewards are transferred to the player's wallet.
 
 :::note
 

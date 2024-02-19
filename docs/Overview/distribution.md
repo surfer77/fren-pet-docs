@@ -5,40 +5,39 @@ sidebar_position: 8
 
 # $FP
 
-## Fren Pet Rewards System
+## FrenPet奖励系统
 
-There is a 5% tax every time someone buys or sells $FP tokens on BaseSwap. Once the smart contract accrues 1000 $FP tokens from taxes, they get automatically swapped into ETH and distributed as follows:
+每当有人在 BaseSwap 上购买或出售 $FP 代币时，都会征收5%的税。一旦智能合约从税收中积累了1000个 $FP 代币，它们会自动被兑换成 ETH 并按以下方式分配：
 
--   2% goes to the players of the game as rewards.
-    
+1. 2% 分给游戏玩家作为奖励。
 
--   2% goes to the developers of Fren Pet.
-    
+1. 2% 分给 Fren Pet 的开发者。
 
--   1% gets added back as liquidity provision to support the $FP economy.
-    
+1. 1% 作为流动性提供重新添加以支持 $FP 经济。
 
-The player rewards are distributed according to your share of in-game points in relation to the total points of all pets in the game.
+玩家的奖励根据你在游戏中点数占所有宠物总点数的比例来分配。
 
-**When you claim your points on the app your score resets to 0 and your pet level starts from scratch, strategize accordingly.**
+当你在应用程序上领取你的积分时，你的分数将重置为0，并且你的宠物等级将从头开始，因此请制定相应的战略。
 
-Note: Rewards work by working directly with a uniV2 contract, we reserve the right to block any uniV3 pools created as they would harm the players of the game. If you got tokens stuck in a uniV3 pool, contact us to help you.
+注意：奖励是通过直接与 uniV2 合约进行交互实现的，我们保留阻止任何 uniV3 池创建的权利，因为它们可能会对游戏玩家造成伤害。如果你的代币被困在 uniV3 池中，请联系我们以帮助你。
 
-## In-game usage
+## 游戏内使用
 
-All $FP tokens used within the game are 90% burned and 10% sent to referrals.
+在游戏中使用的所有 $FP 代币都有90%被销毁，10%发送给推荐人。
 
-**Note: The referral system has been removed but if you were an early player that has referrals you will still earn these fees.**
+注意：推荐系统已被移除，但如果你是早期玩家并有推荐，你仍然会获得这些费用。
 
-## Burn $FP
+## 销毁 $FP
 
-All $FP used to buy mushrooms is 100% burned. So far over 25% (or 2.5mill $FP) of the max supply has been burned by players.
+用于购买蘑菇的所有 $FP 都将100%销毁。到目前为止，超过最大供应量的25%（或250万 $FP）已由玩家销毁。
 
-## Distribution
 
-100% of the FP tokens were distributed via a baseSwap pool with an initial buy limit of ~$0.80 cents per player, any player could get a maximum of 5000 $FP tokens to mint a pet and play the game
+## 分发
 
-The team didn't pre-receive any tokens, all tokens they own were acquired.
+
+100%的 $FP 代币通过一个 BaseSwap 池进行分发，每个玩家的初始购买限制约为0.80美元，任何玩家最多可以获得5000个 $FP 代币以铸造宠物并进行游戏。
+
+团队没有预先接收任何代币，他们拥有的所有代币都是通过购买获得的
 
 :::note
 
