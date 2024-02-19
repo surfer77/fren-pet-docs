@@ -12,11 +12,11 @@ sidebar_position: 2
 死亡时间是指你的宠物如果不喂食就会死亡的时间。如果你的宠物死了，你的 NFT 就会进入冬眠状态。
 
 
-有 2 种方法可以延长宠物的 TOD：
+有 2 种方法可以延长宠物的天数：
 
-1. 只需点击图标并支付 1 个 FP 即可喂它蘑菇。您将获得 5 分，并将 TOD 计时器休息 3 天。用于购买蘑菇的所有 $FP 都被烧毁。
+1. 只需点击图标并支付 1 个 FP 即可喂它蘑菇。您将获得 5 分，并将 时间计时器休息 3 天。用于购买蘑菇的所有 $FP 都被烧毁。
 
-1. 质押您的 $FP 也会将您的 TOD 重置为 3 天。
+1. 质押您的 $FP 也会将您的时间重置为 3 天。
 
 
 
@@ -34,7 +34,7 @@ sidebar_position: 2
 如果在休眠期间没有喂食宠物，它将被销毁，你不能再复活它或再次使用它。
 
 
-**If your pet is not fed during the hibernation period it will be burned and you can't revive it or use it again.**
+**请注意：如果在冬眠期间未喂养您的宠物，它将被烧毁，并且您将无法复活它或再次使用它。.**
 
 工作原理:
 
@@ -45,6 +45,6 @@ sidebar_position: 2
 
 :::note
 
-Fren Pet was released in a fair way via Base Swap outside of this website, The purchase of FP tokens does not constitute an investment contract or any form of investment advice. Fren Pet does no guarantee or make any promises about the future value or performance of the token, and the value of the token may fluctuate significantly. It might be illegal for you to own FrenPet depending on your jurisdiction, check with your local laws.
+Fren Pet是通过Base Swap在该网站之外以公平方式发布的。购买FP代币并不构成投资合同或任何形式的投资建议。Fren Pet不保证或作出任何关于代币未来价值或性能的承诺，并且代币价值可能会显著波动。根据您所在的司法管辖区，拥有Fren Pet可能是非法的，请查阅当地法律。
 
 :::
