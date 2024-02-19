@@ -15,7 +15,7 @@ Fren Pet 是一款基于 Base 区块链的增量独立游戏，由@caduveloso和
 
 您可以在 frenpet.xyz  上下载移动应用程序，它将创建一个加密钱包供您在游戏中使用。
 
-您需要发送一些基础 ETH 才能开始。
+您需要发送一些基础 ETH充当GAS费 才能开始。
 
 您还可以通过在计算机上访问相同的链接来使用桌面版本
 
@@ -31,6 +31,6 @@ Fren Pet 是通过本网站之外的 Base Swap 以公平的方式发布的，购
 
 :::note
 
-Fren Pet was released in a fair way via Base Swap outside of this website, The purchase of FP tokens does not constitute an investment contract or any form of investment advice. Fren Pet does no guarantee or make any promises about the future value or performance of the token, and the value of the token may fluctuate significantly. It might be illegal for you to own FrenPet depending on your jurisdiction, check with your local laws.
+Fren Pet是通过Base Swap在该网站之外以公平方式发布的。购买FP代币并不构成投资合同或任何形式的投资建议。Fren Pet不保证或作出任何关于代币未来价值或性能的承诺，并且代币价值可能会显著波动。根据您所在的司法管辖区，拥有Fren Pet可能是非法的，请查阅当地法律。
 
 :::
