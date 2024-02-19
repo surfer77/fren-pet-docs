@@ -19,7 +19,7 @@ The winner gets 0.5% of the loser's points, which directly affects ETH rewards.
 
 Every pet starts with 10 AP (Attack Points) and 10 DP (Defense Points).
 
-Every 1000 points you earn by upgrading your pet you get to spin a gatcha machine that will reward you with APs or DPs.
+Every time you level up 1 level by upgrading your pet you get to spin a gatcha machine that will reward you with APs or DPs.
 
 Here is the formula to decide your win probability: `(Attacker’s AP) / (Attacker’s AP + Defender’s DP)`
 
