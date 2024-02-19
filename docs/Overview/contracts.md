@@ -1,11 +1,10 @@
 ---
 sidebar_position: 10
 ---
-
 # 合约
 
 V2是使用EIP2535 Diamond
-
+ 
 标准构建的。
 
 The diamond contract is at: [0x0e22b5f3e11944578b37ed04f5312dfc246f443c](https://basescan.org/address/0x0e22b5f3e11944578b37ed04f5312dfc246f443c#code)
