@@ -7,12 +7,12 @@ sidebar_position: 8
 
 ## Fren Pet Rewards System
 
-There is a 5% tax every time someone buys or sells $FP tokens on BaseSwap. Once the smart contract accrues 1000 $FP tokens from taxes, they get automatically swapped into ETH and distributed as follows:
+There is a 4% tax every time someone buys or sells $FP tokens on BaseSwap. Once the smart contract accrues 1000 $FP tokens from taxes, they get automatically swapped into ETH and distributed as follows:
 
 -   2% goes to the players of the game as rewards.
     
 
--   2% goes to the developers of Fren Pet.
+-   1% goes to the developers of Fren Pet.
     
 
 -   1% gets added back as liquidity provision to support the $FP economy.
