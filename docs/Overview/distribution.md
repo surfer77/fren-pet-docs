@@ -7,7 +7,7 @@ sidebar_position: 8
 
 ## Fren Pet Rewards System
 
-There is a 4% tax every time someone buys or sells $FP tokens on BaseSwap. Once the smart contract accrues 1000 $FP tokens from taxes, they get automatically swapped into ETH and distributed as follows:
+There is a 4% tax every time someone buys or sells $FP tokens on [UniSwap](https://app.uniswap.org/explore/tokens/base/0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105). Once the smart contract accrues 1000 $FP tokens from taxes, they get automatically swapped into ETH and distributed as follows:
 
 -   2% goes to the players of the game as rewards.
     
@@ -22,7 +22,7 @@ The player rewards are distributed according to your share of in-game points in 
 
 **When you claim your points on the app your score resets to 0 and your pet level starts from scratch, strategize accordingly.**
 
-Note: Rewards work by working directly with a uniV2 contract, we reserve the right to block any uniV3 pools created as they would harm the players of the game. If you got tokens stuck in a uniV3 pool, contact us to help you.
+Note: Rewards work by interacting directly with a uniV2 contract, we reserve the right to block any uniV3 pools created as they would harm the players of the game. If you got tokens stuck in a uniV3 pool, contact us to help you.
 
 ## In-game usage
 
