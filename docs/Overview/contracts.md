@@ -12,11 +12,11 @@ To interact with the different facets we recommend this link as EIP2535 is not c
 
 [https://louper.dev/diamond/0x0e22b5f3e11944578b37ed04f5312dfc246f443c?network=base](https://louper.dev/diamond/0x0e22b5f3e11944578b37ed04f5312dfc246f443c?network=base)
 
-**FP Token**: [0x5b51Cf49Cb48617084eF35e7c7d7A21914769ff1](https://basescan.org/address/0x5b51Cf49Cb48617084eF35e7c7d7A21914769ff1#code)
+**FP Token**: [0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105](https://basescan.org/address/0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105#code)
 
 **FrenPet NFT**: [0x5b51Cf49Cb48617084eF35e7c7d7A21914769ff1](https://basescan.org/address/0x5b51Cf49Cb48617084eF35e7c7d7A21914769ff1#code)
 
-**pGOLD**: [0x5b51Cf49Cb48617084eF35e7c7d7A21914769ff1](https://basescan.org/address/0x5b51Cf49Cb48617084eF35e7c7d7A21914769ff1#code)
+**pGOLD**: [0x976008031bBc99E05D006f68C7Ea723c2b56101f](https://basescan.org/address/0x976008031bBc99E05D006f68C7Ea723c2b56101f#code)
 
 # Contracts V1 (deprecated)
 
