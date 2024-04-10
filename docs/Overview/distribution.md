@@ -7,7 +7,7 @@ sidebar_position: 8
 
 ## Fren Pet Rewards System
 
-There is a 4% tax every time someone buys or sells $FP tokens on [UniSwap](https://app.uniswap.org/explore/tokens/base/0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105). Once the smart contract accrues 1000 $FP tokens from taxes, they get automatically swapped into ETH and distributed as follows:
+There is a 4% tax every time someone buys or sells $FP tokens on [UniSwap](https://app.uniswap.org/explore/tokens/base/0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105). Once the smart contract accrues 50 $FP tokens from taxes, they get automatically swapped into ETH and distributed as follows:
 
 -   2% goes to the players of the game as rewards.
     
