@@ -13,7 +13,7 @@ Time Of Death is when your pet will die if it's not fed. If your pet dies your N
 
 There are 2 ways to extend your pets TOD:
 
--   Feed it a mushroom by simply clicking on the icon and paying 1 $FP. You will receive 5 points and reset your TOD timer to 3 days. All $FP used to buy mushrooms is burned.
+-   Feed it a mushroom by simply clicking on the icon and paying 0.2 $FP. You will receive 5 points and reset your TOD timer to 3 days. All $FP used to buy mushrooms is burned.
     
 
 -   Staking your $FP will also reset your TOD to 3 days.
@@ -33,7 +33,7 @@ If you forget to feed your pet, other players can send it to hibernation and get
 
 How it works:
 
--   To reactivate a hibernating pet, the first shroom costs an additional 10 FP.
+-   To reactivate a hibernating pet, the first shroom costs an additional 4 $FP.
     
 
 -   While hibernating, if attacked by other players, the pet can lose 1% of its points (compared to 0.5% for active pets) odds are based off attack and defense points.
