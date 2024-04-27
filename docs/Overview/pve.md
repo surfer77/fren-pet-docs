@@ -27,7 +27,7 @@ Gacha spins are where you can win or lose attack or defence points which are cru
 
 ## Lootbox
 
-You can spin the lootbox for $3, you pick what ultimate upgrade you would like for your pet if you get lucky. 
+You can spin the lootbox for $2 each time for a max of 12 times a day per pet, you pick what ultimate upgrade you would like for your pet if you get lucky. 
 
 There 3 options:
 
@@ -35,7 +35,7 @@ There 3 options:
 1. Improve your defense points
 1. Earn pGOLD
 
-Note that for attack and defense points you have a chance of 1 in 4 to win anything, this will be revised after tests with users to balance game mechanics.
+Note that for attack and defense points you have a chance of 1 in 10 to win anything, this will be revised after tests with users to balance game mechanics.
 
 ## Dice
 
