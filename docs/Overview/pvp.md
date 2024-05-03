@@ -9,7 +9,7 @@ sidebar_position: 5
 
 ## Battles
 
-Every 30 minutes you can battle a pet that is above your level and that hasn't been bonked for 1 hour.
+Every 30 minutes you can battle a pet that hasn't been bonked for 1 hour.
 
 The odds on the outcome of the battle depend on your attack and defense points vs the other player you are battling so pick your battles wisely.
 
