@@ -22,11 +22,11 @@ When attacking:
 What you can lose is always capped  at 0.5% of your points.
 What you can win is always capped at 0.5% (1% if hibernated) of target points.
 
-## if under 10k points
+## My pet has less than 10k points
   - I can lose 0.5%
   - I can win 100 points if opponent can lose that (still capped at 0.5% of their points)
 
-## Rest of Bonks
+## My pet has more than 10k points
 
 win/lose is calculated according to the odds of win
 
