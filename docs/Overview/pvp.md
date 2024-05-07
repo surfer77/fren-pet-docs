@@ -30,7 +30,7 @@ What you can win is always capped at 0.5% (1% if hibernated) of target points.
 
 win/lose is calculated according to the odds of win
 
-### I attacker a stronger pet 
+### I attack a stronger pet 
   - if I attack with odds of winning less than 50%
     - if I lose, I lose `.5% of target points + (50 - odds) * target loss + 60% * target loss` (capped at 0.5% of my points)
     - if I win, I can win `.5% of my points + (50 - odds) * my loss + 60% * my loss` points (capped at 0.5% of target points)
