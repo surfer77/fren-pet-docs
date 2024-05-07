@@ -17,18 +17,48 @@ The winner can get up to 0.5% of the loser's points, which directly affects ETH 
 
 Here's how it works:
 
-1. If you have fewer than 20,000 points:
-   - When you attack another player's pet, you can win up to 100 points.
-   - If the other pet doesn't have enough points for you to win 100 points, you only win what they can afford to lose.
+When attacking:
 
-2. If you have more than 20,000 points:
-   - If you attack and win against a pet with fewer points than you, you can only win as many points as they could afford to lose.
-   - If you attack and win against a pet with more points than you, you can only win as many points as you could afford to lose.
+What you can lose is always capped  at 0.5% of your points.
+What you can win is always capped at 0.5% (1% if hibernated) of target points.
 
-3. If you attack and lose:
-   - If you have fewer points than the pet you attacked, you lose 0.5% of your points.
-   - If you have more points than the pet you attacked, there's a formula to figure out how many points you lose. For example, if you attack a pet that could lose 150 points, with a 70% chance of winning, you could lose up to 255 points. However, there's a limit of 0.5% of your total points. So if you could only lose 200 points, you'd only lose 200, not 255. This is to prevent stronger players from bullying weaker ones.
+## if under 10k points
+  - I can lose 0.5%
+  - I can win 100 points if opponent can lose that (still capped at 0.5% of their points)
 
+## Rest of Bonks
+
+win/lose is calculated according to the odds of win
+
+  - if I attack with odds of winning less than 50%
+    - if I lose, I lose `.5% of target points + (50 - odds) * target loss + 60% * target loss` (capped at 0.5% of my points)
+    - if I win, I can win `.5% of my points + (50 - odds) * my loss + 60% * my loss` points (capped at 0.5% of target points)
+
+**Example 1**: 
+Pet 1: 100k vs Pet 2: 200k, with 20% odds of winning
+Pet 1 max loss is 500 points, Pet 2 max loss 1000 points
+Pet 1 loses => `-500pts`
+Pet 1 wins => `500 + (50-20)% * 500 + 60% * 500 = +950pts` 
+**Example 2**: 
+Pet 1: 200k vs Pet 2: 100k, with 20% odds of winning
+Pet 1 max loss 1000 points, Pet 2 max loss is 500 points
+Pet 1 loses => `500 + (50-20)% * 500 + 60% * 500 = -950pts` 
+Pet 1 wins => `+500pts `
+    
+  - if I attack with odds of winning greater or equal to 50%
+    - if I lose, I can lose `0.5% of target points + odds * target loss` (capped to my 0.5%)
+    - if I win, I can win `.5% of my points + 60% * my loss` points (capped at 0.5% of target points)
+
+**Example 1**: 
+Pet 1: 100k vs Pet 2: 200k, with 70% odds of winning
+Pet 1 max loss is 500 points, Pet 2 max loss 1000 points
+Pet 1 loses => `-500pts` 
+Pet 1 wins => `500 + 500 * 60% = +800pts` 
+**Example 2**: 
+Pet 1: 200k vs Pet 2: 100k, with 70% odds of winning
+Pet 1 max loss 1000 points, Pet 2 max loss is 500 points
+Pet 1 loses => `500 + 500 * 70% = -850pts`
+Pet 1 wins => `500pts`
 
 ## Defense and Attack Score
 
