@@ -39,7 +39,7 @@ How it works:
 -   While hibernating, if attacked by other players, the pet can lose 1% of its points (compared to 0.5% for active pets) odds are based off attack and defense points.
     
 
--   Players have a 7-day window to feed their pet and bring it back to life. After that, pet can be killed by other players losing its score. Anything that pet had from the marketplace is automatically sold back into the shop. All $FP and any accrued ETH rewards are transferred to the player's wallet.
+-   Players have a 7-day window to feed their pet and bring it back to life. After that, pet can be killed by other players losing its score. Any items the pet had from the marketplace are burned since they are attached to it and owner should take extra care to sell them back before the pet gets killed. All $FP and any accrued ETH rewards are transferred to the player's wallet.
 
 :::note
 
