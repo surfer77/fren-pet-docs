@@ -13,7 +13,7 @@ Time Of Death is when your pet will die if it's not fed. If your pet dies your N
 
 There are 2 ways to extend your pets TOD:
 
--   Feed it a mushroom by simply clicking on the icon and paying 0.2 $FP. You will receive 5 points and reset your TOD timer to 3 days. All $FP used to buy mushrooms is burned.
+-   Feed it a mushroom by simply clicking on the icon and paying $1.5 (in ETH). You will receive 5 points and reset your TOD timer to 3 days. All $FP used to buy mushrooms is burned.
     
 
 -   Staking your $FP will also reset your TOD to 3 days.
