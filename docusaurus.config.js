@@ -31,7 +31,7 @@ const config = {
     defaultLocale: "en",
     locales: ["en"],
   },
-
+  plugins: ["@orama/plugin-docusaurus"],
   presets: [
     [
       "classic",
