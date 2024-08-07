@@ -37,6 +37,15 @@ There 3 options:
 
 Note that for attack and defense points you have a chance of 1 in 10 to win anything, this will be revised after tests with users to balance game mechanics.
 
+## Training Camp
+
+Training camp allows you to increase your pet's attack or defense by +1 point for each camp level. 
+The duration to train increases by 30 minutes for each level. Starting at 30 minutes, then 1 hour, and so on.
+
+To join the first camp, you need 10 bonk wins. Each subsequent camp requires 10 more bonk wins than the last (e.g., second camp needs 20 more wins, third needs 30 more wins).
+
+
+
 ## Dice
 
 You can join the Dice game and play against other players to win up to 50 $FP per game!
