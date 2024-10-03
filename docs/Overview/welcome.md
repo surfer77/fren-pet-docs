@@ -20,7 +20,20 @@ You can also use the desktop version by visiting the same link on a computer.
 
 ## Minting a Pet 
 
-Minting a pet is free, when you join the app you'll get a randomly generated pet and can start playing right away.
+Once you join FrenPet, we create a smart account for you using account abstraction. Here’s what you can do with your new pet:
+
+1. Mint your pet and start playing immediately.
+1. Enjoy up to 10 transactions (txs) per day for free!
+
+
+## Want More Transactions?
+If you'd like to do more than 10 txs per day, simply increase your limit by funding your smart account with ETH. For most players, around $2 of ETH is enough to cover a month's worth of gameplay.
+
+## Daily Transaction Limit
+If you reach your daily transaction limit, don’t worry! It will reset automatically after 24 hours, so you can continue playing the next day.
+
+
+
 
 :::note
 
