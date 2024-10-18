@@ -75,12 +75,6 @@ const config = {
             label: "Website",
           },
           {
-            type: "doc",
-            docId: "/category/overview",
-            position: "left",
-            label: "Docs",
-          },
-          {
             href: "https://mirror.xyz/frenpet.eth",
             label: "Blog",
             position: "left",
