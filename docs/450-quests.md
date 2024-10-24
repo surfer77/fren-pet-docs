@@ -20,6 +20,6 @@ Adventure quests send your pet on exciting journeys to earn additional EP. This 
 
 :::note
 
-Fren Pet was released in a fair way via Base Swap outside of this website. The purchase of FP tokens does not constitute an investment contract or any form of investment advice. Fren Pet does not guarantee or make any promises about the future value or performance of the token, and the value of the token may fluctuate significantly. It might be illegal for you to own FrenPet depending on your jurisdiction, so check with your local laws.
+Fren Pet was released in a fair way via Base Swap outside of this website. The purchase of FPtokens does not constitute an investment contract or any form of investment advice. Fren Pet does not guarantee or make any promises about the future value or performance of the token, and the value of the token may fluctuate significantly. It might be illegal for you to own FrenPet depending on your jurisdiction, so check with your local laws.
 
 :::
