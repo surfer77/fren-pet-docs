@@ -3,7 +3,7 @@ slug: /
 ---
 # Overview
 
-Fren Pet is a "Play & Earn" game on the Base blockchain.  
+Fren Pet is a game on the Base blockchain.  
 It's an incremental idle game that allows players to adopt a pet, feed it, train it, battle against other players, explore the FrenPet world and gain rewards.
 
 - 🍄 feed your pet
