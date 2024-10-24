@@ -8,7 +8,7 @@ FrenPet is free to play and also allows players to enhance their experience by e
 
 ## Free
 
-Users who do not stake $FPs or do not purchase will still enjoy all features of the game.
+Users who do not stake $FPs or do not purchase a pass will still enjoy all features of the game.
 
 ## 🥞 Staking
 
