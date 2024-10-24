@@ -1,4 +1,7 @@
-# Quests: Earn EP for Free Pet Perks!
+# Quests
+
+
+## 🏆 Earn EP for Free Pet Perks!
 
 FrenPet allows pets to complete quests to win EP (Experience Points). EP gives pets experience and qualifies them for free pet perks on the 10th of each month, advancing your journey through the game.
 
