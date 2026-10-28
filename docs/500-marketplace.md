@@ -10,6 +10,7 @@ Otherwise, use the ai hat maker to create fun, colorful, custom hats and accesso
 All older cosmetics in the shop are traded with $FP against a linear bonding curve, the delta for each item can be seen in the info box.
 
 There is a 10% fee when buying items that goes to referrals (See below).
+
 **Note: The referral system has been removed but if you were an early player that has referrals you will still earn these fees.**
 
 :::note
