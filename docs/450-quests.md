@@ -1,10 +1,13 @@
 # Quests
 
 
-## 🏆 Earn EP for Free Pet Perks!
+## 🏆 Quests are a experimental feature where you can claim Explorer Points(EP) for your pet.
 
-FrenPet allows pets to complete quests to win EP (Experience Points). EP gives pets experience and qualifies them for free pet perks on the 10th of each month, advancing your journey through the game.
+Explorer Points are an off-chain points system. Pets can claim EP after hitting Achievments, and, from daily or one-time quests when those are available.
 
+Explorer Points carry no value outside of the game and their in-game use will vary during the ongoing experimental phase of this feature. Refer to the in-game info on the Quests tab for the most current details.
+
+Explorer Points may be adjusted or reset at any time during this phase.
 
 ## 🌟 Daily Quests
 
@@ -16,7 +19,7 @@ Achievement quests are for major accomplishments for your pet inside the game. T
 
 ## 🗺️ Adventure Quests
 
-Adventure quests send your pet on exciting journeys to earn additional EP. This feature is coming soon!
+Adventure quests are paused in development until further notice.
 
 :::note
 
