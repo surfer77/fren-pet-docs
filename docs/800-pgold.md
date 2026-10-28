@@ -1,18 +1,12 @@
 # pGold
 
-We created an on-chain in-game coin called $pGOLD to keep track of the shares of each player from the **players treasure**, based on pet score/points.
+We created an on-chain in-game coin called $pGOLD to keep track of the shares of each player from the **players treasure**.
 
 A total of 1,000,000,000 $pGOLD will ever exist.
 
-## Earn pGold
+## ~~Earn pGold~~
 
-
-Players can earn $pGOLD in two ways:
-
--   Swapping $FP for it in the swap tab
-    
-
--   [Defeating monsters](gameplay#-collect-monsters) in battle
+pGold and the Player's Treasury are being sunset after October 2026. These docs will be updated to fully reflect changes made once that process is complete.
     
 ## Player's Treasure
 
@@ -20,11 +14,13 @@ Some in-game actions will add $FPs to the player's treasure. $pGold represent th
 
 ## pGOLD Liquidity Providers
 
-Due to the mechanics of pGOLD you can also liquidity provide (LP) your $FP that earns 2% of all trading fees and any pGOLD other players decide to sell into the pool.
+It is not recomended to LP pGold during the sunsetting process.
 
-Due the entirety of pGOLD supply being backed by an ever growing FP treasury you are always expected to have more FP value when you stop LPing.
+~~Due to the mechanics of pGOLD you can also liquidity provide (LP) your $FP that earns 2% of all trading fees and any pGOLD other players decide to sell into the pool.~~
 
-There is a 2% swap fee when players buy or sell pGOLD with FP that goes to LPs
+~~Due the entirety of pGOLD supply being backed by an ever growing FP treasury you are always expected to have more FP value when you stop LPing.~~
+
+~~There is a 2% swap fee when players buy or sell pGOLD with FP that goes to LPs~~
 
 :::note
 
