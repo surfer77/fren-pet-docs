@@ -36,18 +36,21 @@ If a pet is not fed before the TOD timer goes to 0, the pet will enter a 7 days 
 
 During that period the pet can not do anything except go out of hibernation. It is also weaker, and loses up to 1% of its points when being attacked.
 
-It cost $5.5 to wake a pet up from hibernation.
+It cost $1.5 to wake a pet up from hibernation.
 
 If a pet is not awoken before the end of the 7 days Hibernation period, the [pet dies](/gameplay#death).
 
 ## ☠️ Death
 
 Once a pet dies, the NFT representing the pet is burnt (deleted).
+The pet is gone forever and can not be recovered by anyone. Death is final at the instant the hibernation TOD timer hits 00:00.
+The game UI goes by your system's clock time and may occasionally display a slightly different count than the blockchain data, which is the deciding authority. 
+As such, never wait until the last moments to revive a hibernating pet; as you may find you were too late if your system clock was out of sync.
 
-Any unclaimed [reward](rewards) is automatically transferred to the pet owner at the time of death.
+Any unclaimed [reward](rewards) are automatically transferred to the pet owner at the time of death.
+Any staked FP tokens are transferred to the pet owner at the time of death.
 
-Any staked FPs are transferred to the pet owner at the time of death.
-
+The pet owner is always the wallet that held the pet at the time of death.
 
 ## 🧭 Spin the wheel
 
@@ -64,7 +67,8 @@ The first is by getting more points. When your pet grows in points, it will unlo
 
 #### 2) Training Camp
 
-Winning bonks when you bonk other players will allow you to unlock levels in the Training camp.  
+Winning bonks where your pet is the attacking pet will allow you to unlock levels in the Training camp.  
+Succesfully defending against a bonk does not count.
 
 Training camp allows you to increase your pet's attack or defense by +1 point for each camp level. 
 The duration to train increases by 30 minutes for each level. Starting at 30 minutes, then 1 hour, and so on.
@@ -82,12 +86,15 @@ There 2 options:
 
 Note that for each spin you have a chance of 1 in 10 to win anything. Each spin is an independent event with the same odds each time. The rng is run via smart contract using a commit-reveal scheme to ensure fairness. There is no mercy or catch-up system. See the info box on the Loot Box section in-game for more details.
 
-
 ## ⚔️ Battle against other players
 
-Every 30 minutes (10 for [pass holders](freemium#pass-holder)), your pet can bonk a pet that hasn't been bonked for 1 hour. (in a limit of 32 attacks per day)
+Every 30 minutes (10 for [pass holders](freemium#pass-holder)), your pet can bonk a pet that hasn't been bonked for 1 hour. 
+
+Each pet can do 32 bonks max per "day"(a 24h rolling window that refreshes as each oldest bonk falls off) and will enter a cooldown period if they reach max bonks inside a 24hr period.
 
 Your pet's ATK will be used against the other pet's DEF to determine who is the winner.
+You can filter for battles with different win rate odds and point yields using the filters button on the Battle tab.
+While on the Battle tab, click a pet's name to visit it or click its point yield to see a detailed win/loss breakdown.
 
 The winner will get up to 0.5% of the loser's points (1% if the target is hibernated).
 
@@ -112,7 +119,7 @@ When battling monsters, pets ALWAYS have a 50% chance of winning. If they win, t
 
 If the pet loses, it needs 2 more wins against players to be able to battle that monster again.
 
-Once you collected the 10th monster, you will unlock a Potion that allows you to randonly evolve your pet into another species. Dog, Sheep, Monkey or even Dragon are possible!
+Once you collect the 10th monster, you will unlock a Potion that allows you to randomly evolve your pet into another species. Dog, Sheep, Monkey or even Dragon are possible!
 
 ## Name your pet
 
