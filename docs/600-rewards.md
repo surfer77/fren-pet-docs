@@ -1,8 +1,26 @@
 # Rewards
 
-FrenPet allows players to claim their share of the global reward (generated through a buy/sell tax on the uniswap pool) against their points.
+FrenPet allows players to claim their share of the global reward (generated through a buy/sell tax on the uniswap pool) against their points. 
 
-Whenever a pet claim its reward, its points are burned (deleted) and its statistics are brought back to start (10 ATK, 10 DEF).
+You can claim rewards in two ways-
+
+### 💎 **Claim rewards as ETH** 
+
+Only choose this method if you want to reset or end your pet.
+
+**Claiming rewards as ETH wipes the pet's points, back down to 0**, resets its stats to starting 10 ATK 10 DEF, and sends the full rewards value directly to the wallet containing the pet in the form of ETH.
+
+You have to start building up your pet and points from scratch again. You get to roll new gachas and Training Camps are refreshed but any monsters already collected can not be collected again. 
+
+or
+
+### 😺 **Claim rewards as $FP**
+
+This is the method recommended for most players.
+
+Your pet keeps all its points and stats! Your current full value of ETH rewards are used to purchase $FP at current market values and pay any tax, platform fees, or slippage required, and then the $FP is sent directly to the wallet the pet is in. Tax rate is 4%, 2% of which goes right back to global player rewards.
+
+You can claim rewards as $FP as often as you would like and your pet's points and stats are always safe. This is one way pets can naturally build up to having 110 $FP to stake. $FP from rewards can only be staked after it has been claimed.
 
 ## Points
 
@@ -30,8 +48,6 @@ There is a 4% tax every time someone buys or sells $FP tokens on [UniSwap](https
     
 
 The player rewards are distributed according to your share of in-game points in relation to the total points of all pets in the game.
-
-**When you claim your points on the app your score resets to 0 and your pet level starts from scratch, strategize accordingly.**
 
 Note: Rewards work by interacting directly with a uniV2 contract, we reserve the right to block any uniV3 pools created as they would harm the players of the game. If you got tokens stuck in a uniV3 pool, contact us to help you.
 
