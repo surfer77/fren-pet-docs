@@ -11,6 +11,7 @@ It's an incremental idle game that allows players to adopt a pet, feed it, train
 - 💪 train your pet's Attack and Defense to be stronger
 - ⚔️ battle against other players every 30 minutes
 - 🕵️ explore FrenPet world, battle & collect monsters or do daily quests
+- 🧢 craft custom hats and accessories for your pet
 - 🎁 gain rewards
 
 ## QuickStart
@@ -21,7 +22,7 @@ You can install the mobile app directly from the website on [frenpet.xyz](https:
 
 **To install:** Once on the website, open your browser **Menu** (click on the 3 dots) > **"Add to Home Screen"**  
 
-The game is now available on your device like any other apps. You can then connect to the game using your favorite method (email, X, apple id, ...) and the game will automatically create a crypto wallet for you to use in the game. **You do not need any crypto to start to play, the game has a totally free model**
+The game is now available on your device like any other apps. You can then connect to the game using your favorite method (email, X, apple id, ...) and the game will automatically create a crypto wallet for you to use in the game. **You do not need any crypto to start to play, the game has a totally free mode**
 
 ### Follow the onboarding
 
@@ -37,7 +38,7 @@ And voilà. You can now enjoy the game, grow your pet and battle other players.
 
 ### Daily Transaction Limit
 
-The game being on the blockchain, it necessitate transactions to be performed. FrenPet take the cost to up to 10 transactions (txs) per day. 
+The game being on the blockchain, it necessitate transactions to be performed. FrenPet sponsors the cost to up to 10 transactions (txs) per day. 
 
 If you reach your daily transaction limit, don’t worry! It will reset automatically after 24 hours, so you can continue playing the next day.
 

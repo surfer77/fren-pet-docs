@@ -1,8 +1,13 @@
-# Marketplace
+# Shop
 
-The in-game marketplace has a range of items. From cosmetic to very useful items such as shield to save you from attacks or insurance to auto revive your pet if the TOD runs out and it dies.
+The in-game Shop can be reached from the Playground tab. In the shop you can use $FP to purchase a range of items.
 
-All items in the shop are traded with $FP against a linear bonding curve, the delta for each item can be seen in the shop.
+The ones most useful as of 2026 are: shields to save you from attacks, insurance to auto revive your pet 1 time just before it would die after being hibernated for 7 days and not otherwise revived, and cosmetic-only custom ai hats/accessories.(cowboy hat icon)
+
+All older cosmetics provide no in-game benefits and have hit a delta that results in highly skewed prices. Only purchase older cosmetics if you fully understand the cost. 
+Otherwise, use the ai hat maker to create fun, colorful, custom hats and accessories for your pets for just 1 $FP!
+
+All older cosmetics in the shop are traded with $FP against a linear bonding curve, the delta for each item can be seen in the info box.
 
 There is a 10% fee when buying items that goes to referrals (See below).
 
